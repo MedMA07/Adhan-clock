@@ -91,6 +91,18 @@ This regenerates `assets_*.h`; upload again.
 ## 🇩🇿 دليل مختصر (Darija)
 مشروع ساعة أذان كاملة: وقت + تاريخ ميلادي وهجري + مواقيت الصلاة + أذكار وأدعية + تذكير سورة الكهف يوم الجمعة، وتتحكم فيها بحساس لمس واحد وتربطها بالهاتف عبر QR. التوصيل والتثبيت فوق. أي مشكل افتح **Issue**.
 
+## 🗺️ Roadmap (planned for the next versions)
+- [ ] **Adhkar redesign:** every type of dhikr/du'a gets its **own dedicated page** (morning, evening, after prayer, sleep, Qur'anic du'as, istighfar…) — nothing mixed together, easier to navigate.
+- [ ] **Over-the-air (OTA) updates:** update the clock **from the settings page** (upload or one-click update) — no cable, no need to download and re-install everything from the computer.
+- [ ] **A dedicated mobile app** to control settings and updates, built so that a bad setting or update can never break the device.
+- [ ] More ideas: room temperature/humidity on the home screen (DHT11), automatic screen dimming at night (LDR), more languages, and more features to come إن شاء الله.
+
+## 🤝 Contributing
+Anyone is welcome to **use this project, fork it, improve it or help move it forward** — you're very welcome! 🙏
+Just please **keep the credit and tag me** (**[@MedMA07](https://github.com/MedMA07)** · [LinkedIn](https://www.linkedin.com/in/medma7/)) when you share your version. Issues and pull requests are open.
+
+> بالدارجة: كل واحد يحب ياخد المشروع ولا يعاون فيه ولا يطوره، مرحبا بيه. غير ما ينساش يذكرني (tag) ويخلي الكريدي.
+
 ## 📄 License & credits
 [MIT](LICENSE) © 2026 **El-Amine (MedMA07)**. Third-party components (QR generator, Amiri font, Adafruit/ArduinoJson libraries, Aladhan API): see [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
 
@@ -106,10 +118,10 @@ This regenerates `assets_*.h`; upload again.
 <a href="https://www.linkedin.com/in/medma7/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/MedMA07"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://linktr.ee/el.amine.m"><img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/></a>
-<a href="https://www.instagram.com/medma_7/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/el.amine.m/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://t.me/med_ma7"><img src="https://img.shields.io/badge/Telegram-26A8E1?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="https://api.whatsapp.com/send/?phone=213668598710"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-<a href="https://www.facebook.com/medma07"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="https://www.facebook.com/el.aminem07"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 <a href="https://www.snapchat.com/add/med_ma7"><img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black"/></a>
 </p>
 
